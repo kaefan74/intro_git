@@ -1,0 +1,8 @@
+Git
+ワークフローを学びます
+頑張れ
+git commit
+git remove
+git add
+git status
+git diff
